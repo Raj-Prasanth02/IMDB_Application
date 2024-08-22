@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  console.log("save branch changes in branch repo");
+  console.log("save branch changes in branch");
   return (
     <div className="App">
       <header className="App-header">
